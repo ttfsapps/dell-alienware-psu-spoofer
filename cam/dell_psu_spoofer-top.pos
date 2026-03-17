@@ -1,0 +1,18 @@
+### Footprint positions - created on 2026-03-08T16:01:21-0700 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                                                          PosX       PosY       Rot  Side
+C1        .33uF          C_Disc_D3.0mm_W1.6mm_P2.50mm                                 131.8578   -93.0462    0.0000  top
+C2        .1uF           C_Disc_D3.0mm_W1.6mm_P2.50mm                                 139.1865   -86.8779  -90.0000  top
+D1        RED            LED_D1.8mm_W3.3mm_H2.4mm                                     173.0202   -94.6032  180.0000  top
+D2        1N5817-T       D_DO-41_SOD81_P10.16mm_Horizontal                            178.7792   -84.5690  -90.0000  top
+J1        Molex_KK-254   KK-254_CONN_HEADER_RA_2POS_2.54MM                            139.5937  -102.6079  -90.0000  top
+J2        Molex_KK-254   KK-254_CONN_HEADER_RA_3POS_2.54MM                            159.5062  -106.4179   90.0000  top
+R1        100            R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal             166.5521   -94.7375  180.0000  top
+R2        100            R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal             158.7848   -84.8779    0.0000  top
+R3        10K            R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal             129.4722   -97.6278    0.0000  top
+SW1       SW_DIP_x04     SW_DIP_SPSTx03_Slide_6.7x9.18mm_W7.62mm_P2.54mm_LowProfile   152.0506  -100.0729  -90.0000  top
+U1        L78L33_TO92    TO-92_Inline                                                 134.5231   -87.8779  180.0000  top
+U2        ATTINY85-20PU  DIP-8_W7.62mm_Socket                                         145.7131   -87.0679    0.0000  top
+## End
