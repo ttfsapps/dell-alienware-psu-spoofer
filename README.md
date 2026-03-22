@@ -5,9 +5,15 @@ Allows user to use any lab power supply to power a Dell or Alienware notebook pc
 Custom PCB design which uses an Atmel ATtiny85 microcontroller and OneWireHub to emulate a Maxim DS2502, a 1Kb Add-Only Memory device with a unique 48-bit serial number, programmable EPROM, and 1-Wire interface. The DS2502 is used by Dell and Alienware OEM PSU's to determine the PSU's wattage. It appears that the notebook pc's do not use any of the other information provided in the Dell ID string other than wattage.
 
 ## KiCad Files
-dell_psu_spoofer.kicad_sch\
-dell_psu_spoofer.kicad_pcb\
-dell_psu_spoofer.csv
+[KiCad Schematic](kicad/dell_psu_spoofer.kicad_sch)
+
+[KiCad PCB](kicad/dell_psu_spoofer.kicad_pcb)
+
+[KiCad BOM](kicad/dell_psu_spoofer.csv)
+
+[Gerber File](kicad/dell_psu_spoofer.kicad_pcb.zip)
+
+![KiCad BOM](kicad/dell_psu_spoofer.jpg)
 
 ## Libraries Required
 |Library|Function|
