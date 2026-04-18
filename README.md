@@ -24,14 +24,14 @@ Custom PCB design which uses an Atmel ATtiny85 microcontroller and OneWireHub to
 ## DIP Switch Settings
 |A|B|C|Watts|
 |:-----:|:--------:|:-------:|:-----:|
-|0|0|0|100|
-|0|0|1|150|
-|0|1|0|200|
-|0|1|1|250|
-|1|0|0|300|
-|1|0|1|350|
-|1|1|0|400|
-|1|1|1|500|
+|0|0|0|75|
+|0|0|1|100|
+|0|1|0|125|
+|0|1|1|150|
+|1|0|0|175|
+|1|0|1|200|
+|1|1|0|225|
+|1|1|1|250|
 
 ## Pin Names, Numbers, and Functions
 |||||||||
